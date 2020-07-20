@@ -1,4 +1,4 @@
-# Week2_Public
+# Week3_Public
 
 This repository is the PUBLIC repo for students of the 2020 MIT BWSI Medlytics course for Week 3! Most notebooks do not include solutions, and instead has [## YOUR CODE HERE] where students should write their own code.
 
